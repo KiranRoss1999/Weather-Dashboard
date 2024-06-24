@@ -28,4 +28,4 @@ THEN I am again presented with current and future conditions for that city
 
 ## Link to Application
 
-https://github.com/KiranRoss1999/Weather-Dashboard
+https://kiranross1999.github.io/Weather-Dashboard/
